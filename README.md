@@ -2,6 +2,10 @@
 
 This project was created following along one of the modules of the The Net Ninja "React & Firebase" course.
 
+## Demo link
+
+[Click here](https://magic-memory.herokuapp.com/) to see and play by yourself a demo of the game.
+
 ## Preparing to play
 
 Once you clone the repository make sure to run `npm install` to install all the dependencies required to use the app.
